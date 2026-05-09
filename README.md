@@ -1,5 +1,7 @@
 # Deepfake Detection 2026 With Random Forests
 
+<image src="./dataset-cover.png" alt="Deepfake dataset thumbnail." />
+
 This repository contains a hybrid machine learning pipeline designed to detect synthetic media using the **Kaggle Deepfake Detection 2026** dataset. The project utilizes a combination of **Deep Learning** for spatial feature extraction and **Ensemble Learning** for final classification.
 
 ---
